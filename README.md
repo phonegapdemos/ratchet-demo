@@ -1,6 +1,6 @@
-# USMobile Test application with Ratchet framework
+# PhoneGap + Ratchet Demo
 
-Demo/test mobile application for UŚ, build with PhoneGap and Ratchet framework.
+Demo/test mobile application built with PhoneGap and Ratchet framework.
 
 - homepage: http://www.goratchet.com/
 - live demos: http://www.goratchet.com/examples/
